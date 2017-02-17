@@ -1,0 +1,32 @@
+		body a{cursor: pointer;}
+		*{margin: 0px;padding: 0px;}
+		li{list-style:none;}
+		header{background-color: #333333;font-size: 12px;color:white;line-height: 40px;}
+		header a{text-decoration: none;color:#b0b0b0;}
+		header a:hover{color:white;}
+		.header{padding:0 60px;}
+		.clear{clear: both;}
+		/* 头部左 */
+		.header_left{width: 80%;height: 40px;float: left;}
+		.header_left span,.header_right span{border-left:#6D94A4 0.5px solid;padding:0px 5px;}
+		/* 头部右 */
+		.header_right{width: 13%;height: 40px;float: left;}
+		/* 购物车 */
+		#shopcarbtn{width: 5%;height: 40px;background-color:#424242;float: left;margin-left: 20px;line-height: 40px;text-align: center;color:#b0b0b0;cursor: pointer;}
+		#shopcar{width: 300px;height: 100px;background-color: white;display: none;box-shadow: 0px 2px 10px rgba(0,0,0,0.15);position: absolute;z-index: 1;margin-left: 945px;color: black;}
+		/* 网页头部选项 */
+		#index_head{width:90%;height: 100px;margin:0 auto;background-color: white;padding:0 60px;}
+		.index_logo{width: 60px;height: 60px;background: url(images/xiaomi.png) no-repeat;margin-top: 20px;float: left;}
+		.index_nav{width: 60%;height: 100px;float: left;margin-left: 120px;}
+		.index_nav a{text-decoration: none;color:black;}
+		.index_nav a:hover{color: #FF6700;}
+		.index_nav ul li{height:1px;margin-left: 20px;line-height: 100px;float: left;}
+		.index_serach1{width:25%;height: 100px;float: left;}
+		.index_serach1 input{width: 200px;height: 40px;border: #b0b0b0 1px solid;margin-top: 30px;float: left;border-right: none;margin-left: 50px;}
+		.index_serach1 img{width: 40px;height: 40px;border: #b0b0b0 1px solid;background-color: white;cursor: pointer;margin-top: 30px;float: left;}
+		/* ul下拉图片框 */
+		#index_navMenu{width: 100%;height: 200px;border-top: #b0b0b0 1px solid;display: none;background-color: white;z-index: 999;position: absolute;}
+		#index_navMenu ul{margin-left: 120px;margin-top: 30px;display: none;}
+		#index_navMenu ul li{float: left;padding: 0 30px;border-left:#b0b0b0 1px solid;text-align: center; }
+		.index_navMenup1{font-size: 11px;color: #b0b0b0;}
+		.index_navMenup2{font-size: 12px;color: #FF6700;}

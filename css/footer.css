@@ -1,0 +1,43 @@
+		body{font-family: Microsoft YaHei;}
+		li{list-style: none;}
+		*{margin:0px;padding:0px;}
+		.clear{clear: both;}
+		body a{text-decoration: none;cursor: pointer;}
+		footer{width: 100%;height:450px;margin-top: 40px;background-color:#FAFAFA;}
+		footer a{color:#616161;}
+		footer a:hover{color: #FF6700;}
+		.footer1{height: 260px;}
+		.footer_header{height:250px;background-color:white;padding: 0 60px; }
+		/* 尾部——头部 */
+		.footer_head{height: 80px;border-bottom: #E0E0E0 1px solid;}
+		.footer_head ul{height: 30px;position:absolute;margin-top: 30px;}
+		.footer_head ul li{float: left;border-left:#E0E0E0 1px solid;width: 220px;text-align:center;}
+		.frist{border: none;}
+		/* 尾部-中部 */
+		.footer_nav{height: 115px;margin-top: 30px;}
+		/* 尾部-中部左开始 */
+		.footer_navleft{width: 883px;float: left;border-right:#E0E0E0 1px solid; }
+		.footer_navleft ul li{float: left;}
+		.footer_navfrist li{margin-right: 80px;font-size: 15px;}
+		.footer_navtwo li,.footer_navthree li{font-size: 13px;margin-right: 87px;}
+		.footer_navtwo a,.footer_navthree a{color:#b0b0b0;}
+		.footer_navtwo{margin-top: 20px;}
+		.footer_navthree{margin-top: 5px;}
+		/* 尾部-中部左结束 */
+		/* 尾部-中部右开始 */
+		.footer_navright{width: 210px;height:100px;float: left; }
+		.footer_navright p{text-align: center;}
+		.footer_navrightp1{font-size: 18px;color:#FF6700;}
+		.footer_navrightp2{font-size: 12px;color:#b0b0b0;}
+		.footer_navrightp3{width: 120px;height: 30px;font-size: 12px;border:#FF6700 1px solid;background-color: white;color: #FF6700;line-height: 30px;cursor: pointer;margin:10px auto;}
+		/* 尾部-中部右结束 */
+		/* 尾部-尾部 */
+		.footer_foot{height: 150px;margin-top: 20px;padding:0 60px;}
+		.footer_logo1,.footer_wenzi,.footer_logos{float: left;}
+		.footer_wenzi{font-size: 11px;}
+		.footer_wenzi a{color:#b0b0b0; }
+		.footer_wenzi a:hover{color:#FF6700;;}
+		.footer_wenzip1 li{float: left;border-left: #6D94A4 1px solid;padding:0px 5px;}
+		.footer_wenzip2{font-size: 12px;color:#b0b0b0; }
+		.footer_logos{width: 350px;padding-left: 10px;}
+		.footer_wenzip3{text-align: center;margin-top: 30px;color:#b0b0b0; }
